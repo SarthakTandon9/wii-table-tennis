@@ -1,0 +1,4 @@
+build/
+.DS_Store
+*.trace
+compile_commands.json
